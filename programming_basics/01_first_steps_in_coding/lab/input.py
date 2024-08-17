@@ -1,0 +1,6 @@
+name = input()
+age = float(input())
+age = int(age)
+print(name)
+print(age)
+print(type(age))
